@@ -1,1 +1,1 @@
-pip install faker
+pip3 install faker
